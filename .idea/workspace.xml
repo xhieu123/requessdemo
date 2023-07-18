@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fe78993-4f1f-4a3a-a0e9-bbffd9a67ce1" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/router/productRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/router/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/css/bootstrap-responsive.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/css/font-awesome-ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/css/font-awesome-ie7.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/font/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/font/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/font/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/extras.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/font-awesome-ie7.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/_extras.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/font-awesome-ie7.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/ico/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/ax.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/bootstrap-ecommerce-templates.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/bootstrap-ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/bootstrap-template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/bootstrap-templates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/bootstrap_free-ecommerce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/bootstrappage_shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/carousel1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/carousel3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/logo-bootstrap-shoping-cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/maestro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/mc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/paypal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/pp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/shop-cart.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/shopping-cart-template.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/img/white_leather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/js/jquery.easing-1.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/js/jquery.scrollTo-1.4.3.1-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/shop-cart/assets/js/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/css/bootstrap-responsive.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/css/font-awesome-ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/css/font-awesome-ie7.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/font/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/font/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/font/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/extras.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/font-awesome-ie7.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/_extras.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/font-awesome-ie7.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/ico/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/ax.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/bootstrap-ecommerce-templates.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/bootstrap-ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/bootstrap-template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/bootstrap-templates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/bootstrap_free-ecommerce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/bootstrappage_shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/carousel1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/carousel3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/logo-bootstrap-shoping-cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/maestro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/mc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/paypal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/pp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/shop-cart.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/shopping-cart-template.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/img/white_leather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/js/jquery.easing-1.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/js/jquery.scrollTo-1.4.3.1-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/assets/js/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/err.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/product/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/product/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul3/KhungCRUD/view/user/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lightoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD1/Tuan2/BaiKiemTra" beforeDir="false" afterPath="$PROJECT_DIR$/../MD1/Tuan2/BaiKiemTra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2/Class&amp;Object/N.A-xem" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2/Class&amp;Object/N.A-xem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MD2/QLyNguoiYeu/ManagerHoney" beforeDir="false" afterPath="$PROJECT_DIR$/../MD2/QLyNguoiYeu/ManagerHoney" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/Services/IService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/Services/InvoiceService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/Services/RService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/Services/RService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/Services/RoomService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/Services/RoomService.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/entity/InvoiceManage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/entity/InvoiceManage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/entity/RoomManage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bt12/entity/RoomManage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module 1" beforeDir="false" afterPath="$PROJECT_DIR$/../module 1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/assert.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/assert/strict.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/async_hooks.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/buffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/child_process.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/cluster.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/console.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/constants.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/crypto.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/dgram.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/diagnostics_channel.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/dns.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/dns/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/dom-events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/domain.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/fs.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/fs/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/globals.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/globals.global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/http.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/http2.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/https.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/inspector.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/net.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/os.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/path.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/perf_hooks.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/process.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/punycode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/querystring.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/readline.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/readline/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/repl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/stream.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/stream/consumers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/stream/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/stream/web.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/string_decoder.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/test.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/timers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/timers/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/tls.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/trace_events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/assert.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/assert/strict.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/async_hooks.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/buffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/child_process.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/cluster.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/console.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/constants.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/crypto.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/dgram.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/diagnostics_channel.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/dns.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/dns/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/dom-events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/domain.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/fs.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/fs/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/globals.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/globals.global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/http.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/http2.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/https.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/inspector.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/net.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/os.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/path.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/perf_hooks.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/process.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/punycode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/querystring.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/readline.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/readline/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/repl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/stream.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/stream/consumers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/stream/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/stream/web.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/string_decoder.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/test.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/timers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/timers/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/tls.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/trace_events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/tty.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/url.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/util.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/v8.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/vm.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/wasi.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/worker_threads.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/zlib.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/tty.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/url.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/util.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/v8.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/vm.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/wasi.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/worker_threads.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/zlib.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/README-Deprecated.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/lib/encrypt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/lib/read.cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/lib/read.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/lib/read.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/lib/readline-sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/readline-sync/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Sjq1lAJTCJXdhibFFdRnj8nrRy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/WebstormPJ/modul4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fe78993-4f1f-4a3a-a0e9-bbffd9a67ce1" name="Changes" comment="" />
+      <created>1689670127161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689670127161</updated>
+      <workItem from="1689670128048" duration="392000" />
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1689670236769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689670236769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1689670260863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689670260863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+</project>
